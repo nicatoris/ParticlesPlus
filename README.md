@@ -10,8 +10,8 @@ There are currently 5 new particles:
 - Glitz Particles
 - Spirit Particles
 - Raindrop Particles
-- Snowflake particles
-- Dizzy particles
+- Snowflake Particles
+- Dizzy Particles
 
 More will be added in the future!
 
