@@ -7,11 +7,11 @@ All new particles will be automatically unlocked/added to your inventory.
 ## New Particles
 
 There are currently 5 new particles:
--Glitz Particles
--Spirit Particles
--Raindrop Particles
--Snowflake particles
--Dizzy particles
+- Glitz Particles
+- Spirit Particles
+- Raindrop Particles
+- Snowflake particles
+- Dizzy particles
 
 More will be added in the future!
 
